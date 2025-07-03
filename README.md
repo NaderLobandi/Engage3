@@ -46,7 +46,7 @@ I performed a thorough data validation and anomaly analysis in four parts:
 
 ## Project Structure
 
-Engage3_Assignment/
+Engage3/
 ├── Engage3.ipynb # main Jupyter notebook with analysis and commentary
 ├── prices.csv # product pricing data
 ├── stores.json # store metadata including region and banner
